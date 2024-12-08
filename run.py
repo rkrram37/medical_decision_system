@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd 
 import streamlit as st
 
-df = pd.read_excel('dataset.xlsx')
+df = pd.read_csv('dataset.csv')
 df['SEX'] = df['SEX'].map({'M': 0 ,'F': 1})
 
 x = df.iloc[:, :10]
