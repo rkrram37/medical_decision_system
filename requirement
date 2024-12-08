@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+train_test_split
+LogisticRegression
+RandomForestRegressor
+DecisionTreeRegressor
+pickle
