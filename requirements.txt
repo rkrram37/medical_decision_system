@@ -1,1 +1,12 @@
-
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+sklearn
+train_test_split
+LogisticRegression
+RandomForestRegressor
+DecisionTreeRegressor
+pickle
+openpyxl
